@@ -1,0 +1,12 @@
+﻿  LinearClassifier.cpp
+C:\Users\gabri\OneDrive\Desktop\projects\NREIP\task3\LinearClassifier\LinearClassifier\weight_data_0.h(1,9928): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\gabri\OneDrive\Desktop\projects\NREIP\task3\LinearClassifier\LinearClassifier\weight_data_1.h(1,10011): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\gabri\OneDrive\Desktop\projects\NREIP\task3\LinearClassifier\LinearClassifier\weight_data_2.h(1,9824): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\gabri\OneDrive\Desktop\projects\NREIP\task3\LinearClassifier\LinearClassifier\weight_data_3.h(1,9831): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\gabri\OneDrive\Desktop\projects\NREIP\task3\LinearClassifier\LinearClassifier\weight_data_4.h(1,9995): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\gabri\OneDrive\Desktop\projects\NREIP\task3\LinearClassifier\LinearClassifier\weight_data_5.h(1,9825): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\gabri\OneDrive\Desktop\projects\NREIP\task3\LinearClassifier\LinearClassifier\weight_data_6.h(1,9924): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\gabri\OneDrive\Desktop\projects\NREIP\task3\LinearClassifier\LinearClassifier\weight_data_7.h(1,9881): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\gabri\OneDrive\Desktop\projects\NREIP\task3\LinearClassifier\LinearClassifier\weight_data_8.h(1,9927): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\gabri\OneDrive\Desktop\projects\NREIP\task3\LinearClassifier\LinearClassifier\weight_data_9.h(1,9955): warning C4305: 'initializing': truncation from 'double' to 'float'
+  LinearClassifier.vcxproj -> C:\Users\gabri\OneDrive\Desktop\projects\NREIP\task3\LinearClassifier\Debug\LinearClassifier.exe
