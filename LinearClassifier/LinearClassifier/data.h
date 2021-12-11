@@ -9,6 +9,5 @@
 #include "weight_data_7.h"
 #include "weight_data_8.h"
 #include "weight_data_9.h"
-#include "image_data.h"
-#include "image_data_1.h"
-#include "Label.h"
+#include "Image.h"
+#include "label_2.h"

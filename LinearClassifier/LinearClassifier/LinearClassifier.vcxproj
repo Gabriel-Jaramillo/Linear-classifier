@@ -143,9 +143,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="data.h" />
-    <ClInclude Include="image_data.h" />
-    <ClInclude Include="image_data_1.h" />
+    <ClInclude Include="Image.h" />
     <ClInclude Include="Label.h" />
+    <ClInclude Include="label_2.h" />
     <ClInclude Include="weight_data_0.h" />
     <ClInclude Include="weight_data_1.h" />
     <ClInclude Include="weight_data_2.h" />
